@@ -131,18 +131,53 @@
 <!-- ─── INDIVIDUAL PROJECTS ────────────────────────────────────── -->
  
 <div align="center">
+
 **`> ls ./projects/individual`**
  
 </div>
 <br/>
+
+<!-- AURELUX -->
+<table>
+<tr>
+<td width="56%" valign="top">
+
+### 🛍️ AURELUX — Luxury E-Commerce Platform
+
+ 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+ 
+Premium e-commerce platform — zero dependencies, pure vanilla JS. Full auth pipeline, cart engine, real-time search, promo codes, and 2400+ lines of custom CSS.
+ 
+| Feature | Detail |
+|---|---|
+| Auth | Register · Login · Sessions |
+| Cart | Add · Remove · Checkout · Promos |
+| Search | Real-time filter + category sort |
+| Scale | No framework · No dependencies |
+ 
+*Feb 2026 · Production-ready*
+ 
+</td>
+<td width="30%" valign="center" align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:6px"/>
+</td>
+</tr>
+</table>
+<br/>
+
 <!-- UniStay -->
 <table>
 <tr>
-<td width="44%" valign="top" align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:6px"/>
+<td width="30%" valign="center" align="center">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWpvcHp0c3dtYTYzdmkwN2FwMHpsemswdXJ0d3c5NGVpOWZ4NjNuYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VFqKeEpqHjoEhEhcAI/giphy.gif" width="100%" style="border-radius:6px"/>
 </td>
 <td width="56%" valign="top">
+
 ### 🏠 UniStay — Student Housing Platform
+
  
 ![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -166,40 +201,13 @@ Full-stack housing platform for university students in Sri Lanka. Multi-role aut
 </table>
 <br/>
 
-<!-- AURELUX -->
-
-<tr>
-<td width="56%" valign="top">
-### 🛍️ AURELUX — Luxury E-Commerce Platform
- 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
- 
-Premium e-commerce platform — zero dependencies, pure vanilla JS. Full auth pipeline, cart engine, real-time search, promo codes, and 2400+ lines of custom CSS.
- 
-| Feature | Detail |
-|---|---|
-| Auth | Register · Login · Sessions |
-| Cart | Add · Remove · Checkout · Promos |
-| Search | Real-time filter + category sort |
-| Scale | No framework · No dependencies |
- 
-*Feb 2026 · Production-ready*
- 
-</td>
-<td width="44%" valign="top" align="center">
-<img src="https://media.giphy.com/media/xT9IgG50Lg7rusiqHK/giphy.gif" width="100%" style="border-radius:6px"/>
-</td>
-</tr>
-
-<br/>
-
 <!-- Algorithms -->
 <table>
 <tr>
 <td valign="top">
+
 ### 📐 Mathematical Computation — Python
+
  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
  
@@ -214,7 +222,7 @@ Core CS algorithm implementations — applied numerical computing and mathematic
 </tr>
 </table>
 <br/>
----
+
  
 <!-- ─── GROUP PROJECTS ─────────────────────────────────────────── -->
 
@@ -292,7 +300,7 @@ Community donation web platform — collaborative team build.
 
 <br/>
 
----
+
 
 <!-- ─── CONTACT ────────────────────────────────────────────────── -->
 
