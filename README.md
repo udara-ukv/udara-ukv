@@ -2,8 +2,7 @@
 
 <!-- ─── HERO ──────────────────────────────────────────────────────── -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:111827,100:0d0d0d&height=180&section=header&text=Udara%20Rathnapala&fontSize=48&fontColor=f9fafb&fontAlignY=55&desc=Full-Stack%20Engineer%20%E2%80%A2%20System%20Design%20%E2%80%A2%20DevOps&descFontColor=4ade80&descSize=16&descAlignY=78"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=Udara%20Rathnapala&fontSize=48&fontColor=ffffff&fontAlignY=55&desc=Full-Stack%20Engineer%20%E2%80%A2%20System%20Design%20%E2%80%A2%20DevOps&descFontColor=4ade80&descSize=16&descAlignY=78"/>
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=4000&pause=1200&color=f9fafb&center=true&vCenter=true&width=680&lines=Building+production-grade+systems+end-to-end.;React+%E2%80%A2+Node.js+%E2%80%A2+TypeScript+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker;From+database+schema+to+UI+to+container+to+deploy." />
@@ -132,7 +131,7 @@
  
 <div align="center">
 
-**`> ls ./projects/individual`**
+### **`> ls ./projects/individual`**
  
 </div>
 <br/>
@@ -158,7 +157,7 @@ Premium e-commerce platform — zero dependencies, pure vanilla JS. Full auth pi
 | Search | Real-time filter + category sort |
 | Scale | No framework · No dependencies |
  
-*Feb 2026 · Production-ready*
+##### *Feb 2026 · Production-ready ; https://udara-ukv.github.io/AURELUX/*
  
 </td>
 <td width="30%" valign="center" align="center">
@@ -228,7 +227,7 @@ Core CS algorithm implementations — applied numerical computing and mathematic
 
 <div align="center">
 
-**`> ls ./projects/teams`**
+### **`> ls ./projects/teams`**
 
 </div>
 
@@ -306,7 +305,7 @@ Community donation web platform — collaborative team build.
 
 <div align="center">
 
-**`> contact udara-ukv`**
+### **`> contact udara-ukv`**
 
 <br/>
 
