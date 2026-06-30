@@ -73,7 +73,7 @@
 
 <div align="center">
 
-**`> cat .tech_stack`**
+### **`> cat .tech_stack`**
 
 <br/>
 
@@ -157,7 +157,8 @@ Premium e-commerce platform — zero dependencies, pure vanilla JS. Full auth pi
 | Search | Real-time filter + category sort |
 | Scale | No framework · No dependencies |
  
-##### *Feb 2026 · Production-ready ; https://udara-ukv.github.io/AURELUX/*
+##### *Feb 2026 · Production-ready ;* 
+<!-- https://udara-ukv.github.io/AURELUX/ --> 
  
 </td>
 <td width="30%" valign="center" align="center">
