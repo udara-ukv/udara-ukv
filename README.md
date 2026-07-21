@@ -54,11 +54,8 @@
 <td width="50%" valign="top" align="center">
 
 <br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=udara-ukv&show_icons=true&hide_border=true&hide=issues,contribs&title_color=4ade80&icon_color=60a5fa&text_color=f9fafb&bg_color=111827&rank_icon=github" width="96%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udara-ukv&layout=compact&hide_border=true&title_color=4ade80&text_color=f9fafb&bg_color=111827&langs_count=6" width="96%"/>
-
+<img src="./profile/stats.svg" width="96%"/>
+<img src="./profile/langs.svg" width="96%"/>
 <br/>
 
 </td>
