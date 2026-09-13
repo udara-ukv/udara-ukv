@@ -154,7 +154,8 @@ Premium e-commerce platform — zero dependencies, pure vanilla JS. Full auth pi
 | Search | Real-time filter + category sort |
 | Scale | No framework · No dependencies |
  
-##### *Feb 2026 · Production-ready ;* 
+##### *Feb 2026 · Production-ready ; https://udara-ukv.github.io/AURELUX/     
+* 
 <!-- https://udara-ukv.github.io/AURELUX/ --> 
  
 </td>
